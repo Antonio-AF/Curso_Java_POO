@@ -39,6 +39,7 @@ public class Estrutura_DoWhile {
 			
 		} while (resp != 'n');
 		
+		sc.close();	
 
 	}
 

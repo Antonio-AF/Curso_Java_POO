@@ -24,6 +24,7 @@ public class Condicional {
 			}
 		}
 		
+		sc.close();
 
 	}
 

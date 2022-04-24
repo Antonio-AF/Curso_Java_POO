@@ -1,4 +1,4 @@
-import java.util.Scanner;
+
 
 /*
  * Problema Exemplo
@@ -36,7 +36,7 @@ public class ProblemaExemplo {
 			System.out.println("O valor da Contra é R$" + conta);
 		}
 		
-
+		sc.close();
 	}
 
 }

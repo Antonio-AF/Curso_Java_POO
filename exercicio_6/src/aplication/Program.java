@@ -50,6 +50,9 @@ public class Program {
 		System.out.println("Updateds account data: ");
 		System.out.println(account);
 		
+		
+		sc.close();
+		
 
 	}
 

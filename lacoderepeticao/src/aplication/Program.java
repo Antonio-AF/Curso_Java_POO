@@ -23,6 +23,8 @@ public class Program {
 			String obj3 = obj.toUpperCase(); // Transforma todos os caracteres em maiuscula.
 			System.out.println(obj2 + "/ " + obj3); 
 		}
+		
+		sc.close();
 
 	}
 

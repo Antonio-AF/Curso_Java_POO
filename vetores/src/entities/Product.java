@@ -2,6 +2,7 @@ package entities;
 
 public class Product {
 	
+	@SuppressWarnings("unused")
 	private String name;
 	private double price;
 		

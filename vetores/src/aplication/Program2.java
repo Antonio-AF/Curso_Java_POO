@@ -29,6 +29,8 @@ public class Program2 {
 		double avg = sum / n;
 		
 		System.out.printf("AVERAGE PRICE: %.2f", avg);
+		
+		sc.close();
 
 	}
 

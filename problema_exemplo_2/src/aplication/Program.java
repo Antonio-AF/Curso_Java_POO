@@ -12,7 +12,7 @@ public class Program {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		Product p1 = new Product();
+		//Product p1 = new Product();
 		
 		System.out.println("Enter product data: ");
 		System.out.println("Name: ");
