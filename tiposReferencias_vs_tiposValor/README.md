@@ -43,6 +43,10 @@ x = 10;
 y = x;
 
 y = x;
+
 //y recebe uma cópia de x.
 
+veja a imagen aseguir.
+
 ```
+![Imagem ilusta o endereçamento de memória](https://raw.githubusercontent.com/Antonio-AF/Curso_Java_POO/main/tiposReferencias_vs_tiposValor/src/aplication/Tipo%20Valor.png)
