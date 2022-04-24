@@ -21,7 +21,7 @@ p2 = p1
 //p2 passa a apontar para onde p1 aponta.
 
 ```
-![Imagem ilustra a memória de endereçamento](https://raw.githubusercontent.com/Antonio-AF/Curso_Java_POO/main/tiposReferencias_vs_tiposValor/src/aplication/Tipo%20Referencia.png)
+![Imagem ilustra a memória de endereçamento](https://raw.githubusercontent.com/Antonio-AF/Curso_Java_POO/main/tiposReferencias_vs_tiposValor/src/img/Tipo%20Referencia.png)
 
 Na memória, temos dois espaços que o sistema operacional disponibiliza ao carregar um programa, chamado de espaço de endereçamento Stack e Heap onde ficam alocados as variaveis e dados.
 
@@ -49,4 +49,8 @@ y = x;
 veja a imagen aseguir.
 
 ```
-![Imagem ilusta o endereçamento de memória](https://raw.githubusercontent.com/Antonio-AF/Curso_Java_POO/main/tiposReferencias_vs_tiposValor/src/aplication/Tipo%20Valor.png)
+![Imagem ilusta o endereçamento de memória](https://raw.githubusercontent.com/Antonio-AF/Curso_Java_POO/main/tiposReferencias_vs_tiposValor/src/img/Tipo%20Valor.png)
+
+## Os tipos primitivos da linguagem Java
+
+![Imagem com os tipos primitivos do Java](https://raw.githubusercontent.com/Antonio-AF/Curso_Java_POO/main/tiposReferencias_vs_tiposValor/src/img/Tipos%20Primitivos%20Java.jpg)
