@@ -1,3 +1,6 @@
+// Classes são tipos referência.
+
+
 package entities;
 
 public class Product {
