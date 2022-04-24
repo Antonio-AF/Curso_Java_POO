@@ -51,6 +51,10 @@ veja a imagen aseguir.
 ```
 ![Imagem ilusta o endereçamento de memória](https://raw.githubusercontent.com/Antonio-AF/Curso_Java_POO/main/tiposReferencias_vs_tiposValor/src/img/Tipo%20Valor.png)
 
+Na imagem aseguir, temos o debug de um metodo onde é exemplificado os Tipos Valor e Referência, Tipo valor na forma das variaveis i e y e Tipo Referência na forma do do objeto cls1. 
+
+![Imagem debug metodo](https://raw.githubusercontent.com/Antonio-AF/Curso_Java_POO/main/tiposReferencias_vs_tiposValor/src/img/Debug%20Metodo%20Tipos%20Referencia%20e%20Valor.jpg)
+
 ## Os tipos primitivos da linguagem Java
 
 ![Imagem com os tipos primitivos do Java](https://raw.githubusercontent.com/Antonio-AF/Curso_Java_POO/main/tiposReferencias_vs_tiposValor/src/img/Tipos%20Primitivos%20Java.jpg)
