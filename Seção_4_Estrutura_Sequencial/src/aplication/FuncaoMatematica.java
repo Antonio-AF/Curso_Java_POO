@@ -1,6 +1,6 @@
+package aplication;
 
-
-public class FuncoesMatematicas {
+public class FuncaoMatematica {
 	
 	public static void main(String[] args) {
 		

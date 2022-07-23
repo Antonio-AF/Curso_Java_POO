@@ -1,8 +1,9 @@
+package aplication;
 
-public class Equacao {
+public class Equacao{
 
 	public static void main(String[] args) {
-		
+	
 		double x1, x2, a, b, c, delta;
 		
 		a = 1;

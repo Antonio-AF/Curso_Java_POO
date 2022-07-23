@@ -1,3 +1,5 @@
+package aplication;
+
 import java.util.Scanner;
 
 public class EntradaDeDados2 {

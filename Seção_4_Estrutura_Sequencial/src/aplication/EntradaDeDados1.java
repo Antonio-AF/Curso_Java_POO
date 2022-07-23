@@ -1,6 +1,8 @@
+package aplication;
+
 import java.util.Scanner;
 
-public class EntradaDeDados {
+public class EntradaDeDados1 {
 
 	public static void main(String[] args) {
 		
@@ -14,12 +16,11 @@ public class EntradaDeDados {
 		y = sc.nextInt();
 		System.out.println("Você digitou o numero: " + y);
 		
-		
-		
-		
+				
 		sc.close();
 		
 
 	}
 
 }
+
