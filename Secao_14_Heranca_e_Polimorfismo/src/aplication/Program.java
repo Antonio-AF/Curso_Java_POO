@@ -56,8 +56,20 @@ public class Program {
 		
 		// Usando o super()
 		Account acc12 = new BusinessAccount(1032, "Antonio", 10000.00, 1000.00);
-		Object saque = acc12.withdraw(800.00);
+		acc12.withdraw(800.00);	
 		System.out.println("Saque: R$" + acc12.getBalance() + "Você sacou: ");
+		
+		
+		//Polimorfismo
+		
+		Account x = new Account(2002, "Antonio", 1000.00);
+		Account y = new SavingsAccount(2004, "Amaral", 1000.00, 0.1);
+		
+		x.withdraw(50.0);
+		y.withdraw(50.0);
+		
+		System.out.println(x.getBalance());
+		System.out.println(y.getBalance());
 		
 	}
 	
