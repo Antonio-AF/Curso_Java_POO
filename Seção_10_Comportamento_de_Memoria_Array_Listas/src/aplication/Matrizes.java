@@ -8,7 +8,7 @@ import java.util.Scanner;
 // inteiros. Em seguida, mostrar diagonal principal e a quantidade de valores negativos
 // da matriz.
 
-public class Program {
+public class Matrizes {
 
 	public static void main(String[] args) {
 		
