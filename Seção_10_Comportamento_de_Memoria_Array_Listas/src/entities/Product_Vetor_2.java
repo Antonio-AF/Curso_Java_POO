@@ -1,13 +1,13 @@
-package src.entities;
+package entities;
 
-public class Product {
+public class Product_Vetor_2 {
 	
 	@SuppressWarnings("unused")
 	private String name;
 	private double price;
 		
 	
-	public Product(String name, double price) {
+	public Product_Vetor_2(String name, double price) {
 		this.name = name;
 		this.price = price;
 	}
